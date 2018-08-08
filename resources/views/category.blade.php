@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col s12 pull-l2">
                 
-                <h2 class="center-align " style="margin-top: 100px; color:purple;font-size:40px;"> Trouver le service qui vous convient! </h2>
+                <h2 class="center-align " style="margin-top: 100px; color:purple;font-size:40px;"> Trouver le service qui vous convient!! </h2>
                 
             </div>
             
